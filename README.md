@@ -1,2 +1,1 @@
-# Pep-s-Photography
-Pep's Photography
+TinDog Starting Files

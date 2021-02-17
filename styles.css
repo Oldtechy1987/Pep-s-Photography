@@ -1,0 +1,126 @@
+#title {
+  background-color: #6c757d;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: lighter;
+  line-height: 1.5;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+}
+
+a {
+  color: #0dcaf0;
+}
+
+p {
+  font-family: 'Montserrat-light', sans-serif;
+  font-size: .75rem;
+  color: #4b5d67;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.pepito-image {
+  height: 300px;
+  width: 300px;
+
+}
+
+.pepito {
+  position: relative;
+  left: 175px;
+}
+
+.giphy-image {
+  width: 50%;
+}
+
+.download-button {
+  margin-right: 1rem;
+}
+
+/*--navbar--*/
+
+.navbar {
+  padding: 0 0 70px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.navbar-nav {
+  font-weight: lighter;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.navbar-collapse {
+position: relative;
+left: -50px;
+}
+
+
+
+/*--features--*/
+
+#features {
+  padding: 5rem;
+  background-color: #1b262c;
+}
+
+.feature {
+  text-align: center;
+  padding: 0 2.5rem;
+  color: #46b5d1;
+}
+
+.icon {
+  color: #c02739;
+  padding: 0 0 1.25rem;
+}
+
+.icon:hover {
+  color: #ee4540;
+
+}
+
+/*--Testimonials--*/
+
+#testimonials {
+  background-color: #6c757d;
+  text-align: center;
+  padding: 3% 15%;
+
+}
+
+.kitoy {
+  width: 30%;
+  border-radius: 50%;
+}
+
+.tyke {
+  width: 20%;
+  border-radius: 50%;
+}
