@@ -151,7 +151,21 @@ left: -50px;
   font-family: 'Montserrat-light', sans-serif;
 }
 
+.prenup-image {
+  width: 100%
+}
 
+.wedding {
+  width: 100%
+}
+
+.product {
+  width: 100%
+}
+
+.birthday {
+  width: 100%
+}
 /*--contactus--*/
 
 #cta {
